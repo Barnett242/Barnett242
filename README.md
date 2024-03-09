@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! my Name is Travis Barnett</h1>
+<h3 align="center"> I am Frontend developer with experience with HTML, CSS, JavaScript, Typescript and React</h3>
 
-<!--
-**Barnett242/Barnett242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My latest project I created a website menu that displayed different food food types and options using HTML,CSS 
+- 🌱 I’m currently learning **React, Programing with Go
+- 📫 How to reach me **Travis58@lve.com**
+- 📄 Know about my experiences www.linkedin.com/in/travis-barnett-148a57226
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  
+
