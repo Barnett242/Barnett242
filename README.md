@@ -1,12 +1,16 @@
-<h1 align="center">👋 Hello! my Name is Travis Barnett</h1>
-<h3 align="center"> I am a Cybersecurity profesional and a Frontend developer with experience in HTML, CSS, JavaScript, Typescript and React</h3>
+<h1>Hi, I'm Travis, an <a href=https://www.linkedin.com/in/travis-barnett-148a57226/>IT Professional</a>☺</h1>
 
-- 🔭 My latest project I created a website menu that displayed different food types and options using HTML,CSS 
-- 🌱 I’m currently learning **React, Programing with Go
-- 📫 How to reach me **Travis58@live.com**
-- 📄 Know about my experiences www.linkedin.com/in/travis-barnett-148a57226
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/travis-barnett-148a57226/
 
 
 
